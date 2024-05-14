@@ -1,0 +1,1 @@
+export const BACKEND_URL= "https://blogs.pawar-manav2304.workers.dev"
